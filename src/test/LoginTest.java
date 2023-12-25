@@ -37,7 +37,7 @@ public class LoginTest {
         	System.out.println("Test Failed");
         }
         
-        driver.quit();
+        driver.close();
 
       
 
